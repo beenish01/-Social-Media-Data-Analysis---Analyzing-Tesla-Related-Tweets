@@ -28,4 +28,20 @@ SQlite database
 ![{CAE3520A-3B05-40A9-9758-D32DE03C5F6A}](https://github.com/user-attachments/assets/b99f9bd7-090e-44f2-98ae-3b2576e7dcfa)
 
 
+Dashboard
+
+
+![WhatsApp Image 2024-12-31 at 23 33 01_c1ecbf0b](https://github.com/user-attachments/assets/34e591bd-27e2-47d3-875b-495cdc9a47e3)
+
+![WhatsApp Image 2024-12-31 at 23 33 49_6f483777](https://github.com/user-attachments/assets/3f973fe2-f2d9-4348-88e1-2e0b1dce74c9)
+
+![WhatsApp Image 2024-12-31 at 23 34 48_7373c4c3](https://github.com/user-attachments/assets/fd6147b4-dff3-476c-b41c-7c2acc0d743b)
+
+![WhatsApp Image 2024-12-31 at 23 35 21_2267fb0b](https://github.com/user-attachments/assets/a0b6b87c-d560-4253-87d3-5d647cb18cd0)
+
+![WhatsApp Image 2024-12-31 at 23 35 31_4a939869](https://github.com/user-attachments/assets/7b9aeaef-a951-4730-bd35-097343444649)
+
+
+
+
 
