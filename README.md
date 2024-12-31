@@ -1,8 +1,15 @@
-# -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
-
-
 
 # -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
+Problem Statement and BDA Process
+
+
+
+![{F02882B0-44BD-4F4D-9C3A-0E813F2EB0D2}](https://github.com/user-attachments/assets/75c49a2d-b5d6-4162-b10b-23d99dd82cf6)
+
+
+
+
+
 
 
 
@@ -28,28 +35,9 @@ SQlite database
 UI Updates:
 The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience. streamlit is used for this : streamlit run dashboard.py
 
-Problem Statement and BDA Process
-
-
-
-![{F02882B0-44BD-4F4D-9C3A-0E813F2EB0D2}](https://github.com/user-attachments/assets/75c49a2d-b5d6-4162-b10b-23d99dd82cf6)
-
-
-
-
-
 
 UI Updates:
 The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience. streamlit is used for this : streamlit run dashboard.py
-
-Problem Statement and BDA Process
-
-
-
-![{F02882B0-44BD-4F4D-9C3A-0E813F2EB0D2}](https://github.com/user-attachments/assets/75c49a2d-b5d6-4162-b10b-23d99dd82cf6)
-
-SQlite database
-![{CAE3520A-3B05-40A9-9758-D32DE03C5F6A}](https://github.com/user-attachments/assets/b99f9bd7-090e-44f2-98ae-3b2576e7dcfa)
 
 
 # Dashboard
