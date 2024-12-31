@@ -10,11 +10,16 @@
  Streamlit
 
  ## Implementation
- Obtaining twitter data
- Creating a kafka producer that publishes messages to a topic
+ Obtaining twitter data.
+ 
+ Creating a kafka producer that publishes messages to a topic.
+ 
  Creating a kafka consumer that consumes messages from the kafka topic.
+ 
  Processing content of the tweets and storing it to SQLite database.
+ 
  Use Spark SQL to query data from SQLite database and creating visualizations using Streamlit.
+ 
  
 ## Problem Statement and BDA Process
 
