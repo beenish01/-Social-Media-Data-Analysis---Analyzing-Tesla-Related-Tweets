@@ -1,0 +1,2 @@
+# -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
+This project builds a real-time tweet analysis system using Kafka to track Tesla-related tweets, perform sentiment analysis  and provide actionable insights. It uses SQLite as the database to store processed tweet attributes. It identifies tweet sentiments, influential users, and trends, aiding businesses in managing their online reputation.
