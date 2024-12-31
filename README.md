@@ -1,6 +1,10 @@
 
 # -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
 
+## How to run the project 
+
+Create a kafka topic, run the producer and consumer python scripts and then run dashboard.py to view dashboard.
+
  ## Set up
  This project was built using:
  Python 3,
