@@ -3,18 +3,23 @@
 
 ## How to run the project 
 
-
- Implementation
+ #Implementation
 The implementation is divided into the following tasks:
 
 Obtain twitter data 
+
 Create a kafka producer that publishes messages to a topic
+
 Create a kafka consumer that consumes messages from the kafka topic.
+
 Process content of the tweets and store it to SQLite database.
+
 Use Spark SQL to query data from SQLite database and create visualizations.
+
 
  ## Set up
  This project was built using:
+ 
  Python 3,
  Kafka, 
  Spark SQL, 
