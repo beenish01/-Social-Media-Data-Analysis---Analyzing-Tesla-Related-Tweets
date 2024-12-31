@@ -21,9 +21,13 @@ Use Spark SQL to query data from SQLite database and create visualizations.
  This project was built using:
  
  Python 3,
+ 
  Kafka, 
+ 
  Spark SQL, 
+ 
  SQLite,
+ 
  Streamlit
 
 
