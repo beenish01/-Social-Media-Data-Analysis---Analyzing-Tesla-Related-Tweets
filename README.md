@@ -2,13 +2,13 @@
 
 
 Kafka Producer and Consumer:
-The Kafka producer sends tweets to a Kafka topic, and the consumer processes them in real-time. This indicates streaming data capabilities, which is a characteristic of real-time systems.
+The Kafka producer sends tweets to a Kafka topic, and the consumer processes them in real-time. This indicates streaming data capabilities, which is a characteristic of real-time systems. Run producer : python kafka_twitter_producer.py and Consumer : python kafka_twitter_consumer.py
 
 SQLite Database:
-The processed tweets are inserted into the tweets_processed table using the consumer. This insertion happens almost immediately after the consumer processes the data, showcasing near real-time behavior.
+The processed tweets are inserted into the tweets_processed table using the consumer. This insertion happens almost immediately after the consumer processes the data, showcasing near real-time behavior. the consumer will generate tweets_processed.db
 
 UI Updates:
-The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience.
+The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience. streamlit is used for this : streamlit run dashboard.py
 
 Problem Statement and BDA Process
 
