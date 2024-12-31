@@ -23,6 +23,20 @@ Create a kafka topic, run the producer and consumer python scripts and then run 
  Processing content of the tweets and storing it to SQLite database.
  
  Use Spark SQL to query data from SQLite database and creating visualizations using Streamlit.
+
+Zookeeper connection 
+zookeeper connection using :zookeeper-server-start.bat ..\..\config\zookeeper.properties
+![image](https://github.com/user-attachments/assets/496cea7a-1ada-4e77-be4b-d1834b5fb088)
+
+Kafka Connection 
+kafka connection using: kafka-server-start.bat ..\..\config\server.properties
+![image](https://github.com/user-attachments/assets/8322c2a1-92e3-40ee-a3d5-7a57b542c316)
+
+create topic:
+
+![image](https://github.com/user-attachments/assets/2a2fedcb-a891-4200-9c62-c466e60908c9)
+
+
  
  
 ## Problem Statement and BDA Process
