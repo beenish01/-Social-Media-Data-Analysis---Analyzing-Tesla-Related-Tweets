@@ -1,6 +1,22 @@
 
 # -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
-Problem Statement and BDA Process
+
+ ## Set up
+ This project was built using:
+ Python 3
+ Kafka 
+ Spark SQL 
+ SQLite
+ Streamlit
+
+ ## Implementation
+ Obtaining twitter data
+ Creating a kafka producer that publishes messages to a topic
+ Creating a kafka consumer that consumes messages from the kafka topic.
+ Processing content of the tweets and storing it to SQLite database.
+ Use Spark SQL to query data from SQLite database and creating visualizations using Streamlit.
+ 
+## Problem Statement and BDA Process
 
 
 
@@ -34,11 +50,6 @@ SQlite database
 
 UI Updates:
 The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience. streamlit is used for this : streamlit run dashboard.py
-
-
-UI Updates:
-The UI displays the data as soon as it is inserted into the database, further emphasizing a near real-time user experience. streamlit is used for this : streamlit run dashboard.py
-
 
 # Dashboard
 
