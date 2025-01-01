@@ -2,8 +2,10 @@
 # -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
 
 ## How to run the project 
+Create a kafka topic, then run the producer and consumer python scripts and then view the dashboard using streamlit run dashboard.py
 
- #Implementation
+
+ # Implementation
 The implementation is divided into the following tasks:
 
 Obtain twitter data 
