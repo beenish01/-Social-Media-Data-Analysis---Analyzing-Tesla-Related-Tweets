@@ -35,8 +35,11 @@ Use Spark SQL to query data from SQLite database and create visualizations.
 
 ![{F02882B0-44BD-4F4D-9C3A-0E813F2EB0D2}](https://github.com/user-attachments/assets/75c49a2d-b5d6-4162-b10b-23d99dd82cf6)
 
+# Working 
+
 1. Kafka_producer:
-The producer (twitter_producer.py) fetches records from an SQLite database (tweets.db) containing a table named tesla. Each record is serialized into JSON format and sent as messages to a Kafka topic (twitter2) using the Confluent Kafka producer. A delivery report callback ensures message delivery status is logged. The producer facilitates transferring database content to a distributed messaging system like Kafka for real-time processing.
+The producer (twitter_producer.py) fetches records from an SQLite database (tweets.db) containing a table named tesla. Each record is serialized into JSON format and sent as messages to a Kafka topic (twitter2) using the Confluent Kafka producer.
+A delivery report callback ensures message delivery status is logged. The producer facilitates transferring database content to a distributed messaging system like Kafka for real-time processing.
 
 ![image](https://github.com/user-attachments/assets/b9d25003-aa91-4aca-972c-b6387187dee2)
 
@@ -45,7 +48,7 @@ After we have our kafka producer running, we are ready to start consuming messag
 
 ![image](https://github.com/user-attachments/assets/ebbf47b6-dc5c-4ea0-9cc1-56ce4bcba419)
 
-SQLite Database:
+3. SQLite Database:
 The dataset involves Twitter data stored in tweets.db, containing user information, tweet text, and associated sentiments. The producer streams this raw data from tweets.db for real-time processing. The consumer processes the streamed data by cleaning the tweets, removing noise, and categorizing them into sentiments (positive, neutral, or negative). The processed data, including cleaned tweets and sentiment classifications, is then saved into tweets_processed.db.
 
 SQlite database
@@ -53,6 +56,7 @@ SQlite database
 
 
 
+# Connection Setup
 
 Zookeeper connection 
 zookeeper connection using :zookeeper-server-start.bat ..\..\config\zookeeper.properties
@@ -62,10 +66,9 @@ Kafka Connection
 kafka connection using: kafka-server-start.bat ..\..\config\server.properties
 ![image](https://github.com/user-attachments/assets/8322c2a1-92e3-40ee-a3d5-7a57b542c316)
 
-create topic:
+# Creating a  topic:
 
 ![image](https://github.com/user-attachments/assets/2a2fedcb-a891-4200-9c62-c466e60908c9)
-
 
 
 
