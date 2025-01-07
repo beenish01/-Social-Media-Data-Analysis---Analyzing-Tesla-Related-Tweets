@@ -1,6 +1,9 @@
 
 # -Social-Media-Data-Analysis---Analyzing-Tesla-Related-Tweets
 
+Project Video : https://khiibaedu-my.sharepoint.com/:v:/g/personal/b_ahmed_25147_khi_iba_edu_pk/EVO4YQO4035Iky005Su4yJkBnt4i4xNKZRyEwd5n_kFGhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ieCMMh
+
+
 ## How to run the project 
 Create a kafka topic, then run the producer and consumer python scripts and then view the dashboard using streamlit run dashboard.py
 
